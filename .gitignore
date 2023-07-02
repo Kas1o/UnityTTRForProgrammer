@@ -1,0 +1,15 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Chap1/~$ainDoc.docx
+/Chap1/BL_proxy/Final.mkv/record_run_no_gaps.blen_tc
+/Chap1/BL_proxy/Final.mkv/record_run.blen_tc
+/Chap1/BL_proxy/Final.mkv/proxy_100.avi
+/Chap1/BL_proxy/Final.mkv/interp_free_run.blen_tc
+/Chap1/BL_proxy/Final.mkv/free_run.blen_tc
+/Chap1/BL_proxy/CreateScpt.mkv/record_run_no_gaps.blen_tc
+/Chap1/BL_proxy/CreateScpt.mkv/record_run.blen_tc
+/Chap1/BL_proxy/CreateScpt.mkv/proxy_100.avi
+/Chap1/BL_proxy/CreateScpt.mkv/interp_free_run.blen_tc
+/Chap1/BL_proxy/CreateScpt.mkv/free_run.blen_tc
